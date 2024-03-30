@@ -7,5 +7,6 @@ edition = "2021"
 
 [dependencies]
 anyhow = "1.0.81"
+dashmap = "5.5.3"
 oneshot = "0.1.6"
 rand = "0.8.5"
